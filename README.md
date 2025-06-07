@@ -1,5 +1,5 @@
 # Hello World!, I'm Lipi, a Automation Tester 👋🏼:
-🛜 currently working on my automation testing skills using Selenium, Java, AI <br>👨🏼‍🎓 graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com automation tester since 2021
+🛜 currently working on My Automation Testing skills using Selenium, Java, AI <br>👨🏼‍🎓 graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com Automation Tester since 2021
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
