@@ -26,7 +26,7 @@
 
 ###
 
-## Skills / Tech Stack
+## 💻 Skills / Tech Stack
 
 #### 🧑‍💻 Programming Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
