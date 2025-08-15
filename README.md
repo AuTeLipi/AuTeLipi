@@ -18,7 +18,7 @@
 ###
 
 ## 💻 Tech Stack:
-💻 Programming Languages & Frameworks
+🧑‍💻 Programming Languages & Frameworks
 - Java - Object-oriented programming language
 - Core Java - Foundation programming concepts
 - TestNG - Testing framework for Java
@@ -83,17 +83,6 @@
   <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
-</p>
-
-<p align="center" style="margin-top: 20px;">
-  <!-- Technology Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36" />
 </p>
 
 ###
