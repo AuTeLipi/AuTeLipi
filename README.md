@@ -1,5 +1,4 @@
 # Hello World!, I'm Lipi Dubbaka👋🏼  
----
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 ---
