@@ -1,9 +1,8 @@
 # Hello World!, I'm Lipi Dubbaka👋🏼  
-<hr style="margin-top: 5px; margin-bottom: 5px;">
-
+---
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 💻 Currently working as a <strong>Test Automation Engineer</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
@@ -12,7 +11,7 @@
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
+---
 
 ###
 <p align="center" style="margin-top: 10px;">
@@ -30,7 +29,7 @@
 ###
 
 ## Skills / Tech Stack
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 #### 🧑‍💻 Programming Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
