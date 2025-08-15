@@ -105,62 +105,125 @@
   </table>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+---
+<br>
+
+<h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=LipiDubbaka&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br><br>
+ 
+  <img src="https://streak-stats.demolab.com/?user=AuTeLipi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuTeLipi&custom_title=AuTeLipi's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuTeLipi&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AuTeLipi&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AuTeLipi&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LipiDubbaka&custom_title=LipiDubbaka's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  <br><br>
+</div>
 
-  <!-- Language & Repo Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AuTeLipi&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="AuTeLipi's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuTeLipi&theme=highcontrast&hide_border=true">
+
+### Top Repositories
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipiDubbaka&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+        <a href="https://github.com/AuTeLipi/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+        <a href="https://github.com/AuTeLipi/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AuTeLipi/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+        <a href="https://github.com/AuTeLipi/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AuTeLipi/SmolLM">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AuTeLipi/Llama-3.2_running_locally">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuTeLipi&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
       </td>
     </tr>
   </table>
-
-  <br>
-
-  <!-- Full Stats & Summary -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LipiDubbaka&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="LipiDubbaka's GitHub stats">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Profile Details">
-
-  <br>
-
-  <!-- Contribution Chart -->
-  <h3 align="center">📈 Contribution Chart</h3>
-  <a href="https://github.com/LipiDubbaka">
-    <img src="https://ghchart.rshah.org/LipiDubbaka" alt="LipiDubbaka's GitHub Contribution Chart">
-  </a>
 </div>
 
+### GitHub Contribution Chart
+<a href="https://github.com/AuTeLipi">
+    <img src="https://ghchart.rshah.org/AuTeLipi" alt="AuTeLipi's GitHub Contribution Chart">
+</a>
+
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" /></summary>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
   
-  <!-- Add GitRoll, Bento, etc. if available for LipiDubbaka -->
-  <img src="https://myreadme.vercel.app/api/embed/LipiDubbaka?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Panels">
-  <img src="https://github-readme-bento.vercel.app/stats/LipiDubbaka?theme=dark" alt="GitHub Bento Stats">
+  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+  <img src="https://myreadme.vercel.app/api/embed/AuTeLipi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="AuTeLipi's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/AuTeLipi?theme=dark" alt="AuTeLipi's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=AuTeLipi" alt="Advanced GitHub Stats for AuTeLipi" width="400">
 </details>
+
+<br>
+
+### AuTeLipi/README.md activity
+<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+
+[![Forkers repo roster for @AuTeLipi/AuTeLipi](https://reporoster.com/forks/dark/AuTeLipi/AuTeLipi)](https://github.com/AuTeLipi/AuTeLipi/network/members)
+
+[![Repography](https://reporoster.com/stars/dark/AuTeLipi/AuTeLipi)](https://github.com/AuTeLipi/AuTeLipi)
 
 <details>
-  <summary>🏆 GitHub Profile Trophy</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=LipiDubbaka&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for AuTeLipi&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#AuTeLipi/AuTeLipi&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AuTeLipi/AuTeLipi&type=Date&theme=dark" />
+  </a>
+
 </details>
 
+<br>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=AuTeLipi" alt="GitHub Trophies for AuTeLipi">
+</details>
 
+</div>
 
+<br>
 
 
