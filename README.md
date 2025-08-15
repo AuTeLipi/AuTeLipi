@@ -1,3 +1,33 @@
+<p align="center">
+  <h1>Hello World!, I'm Lipi 👋</h1>
+
+  <h3>🧑‍💻 Automation Tester | QA Engineer</h3>
+
+  📶 Currently working on My Automation Testing skills using Selenium, Java, AI <br>
+  🎓 Graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institute of Science and Technology (2021), Hyderabad, India <br>
+  👩‍💼 Working as a Manual cum Automation Tester since 2021 <br><br>
+
+  🏆 <strong>GitHub Trophies</strong> <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&margin-w=15&title=MultiLanguage,LongTimeUser,Followers,Repositories,Stars,Experience,Commits,Issues,PullRequest,Reviews" />
+  
+  <br><br>
+
+  📊 <strong>GitHub Stats</strong> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+  <br><br>
+  
+  📈 <strong>Profile Views:</strong><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+
+
+
 # Hello World!, I'm Lipi👋🏼
 # 🕵️‍♂️ Automation Tester | QA Engineer:
 🛜 Currently working on My Automation Testing skills using Selenium, Java, AI <br>👨🏼‍🎓 Graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com Automation Tester since 2021
