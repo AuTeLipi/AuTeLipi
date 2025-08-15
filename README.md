@@ -11,10 +11,6 @@
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=gruvbox&title=Stars,Followers,Commits&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ###
 <p align="center" style="margin-top: 10px;">
 <!-- Gmail - Replace with your actual email -->
