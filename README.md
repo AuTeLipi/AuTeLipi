@@ -5,7 +5,7 @@
 </p>
 
 # 🕵️‍♂️ Automation Tester | QA Engineer:
-💻 Currently working as a <strong>Manual and Automation Tester</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br
+💻 Currently working as a <strong>Manual and Automation Tester</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
 🧪 Currently working as a <strong>Manual and Automation Tester</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 💻 Focused on automation using <strong>Selenium</strong> and <strong>Java</strong>, while exploring the potential of <strong>AI-based testing tools</strong> for smarter QA processes. <br>
