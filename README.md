@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 💻 Currently working as a <strong>Test Automation Engineer</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
@@ -10,7 +9,6 @@
 💻 Focused on automation using <strong>Selenium</strong> and <strong>Java</strong>, while exploring the potential of <strong>AI-based testing tools</strong> for smarter QA processes. <br>
 🌱 Actively learning <strong>Advanced Design Patterns</strong> and strengthening automation frameworks with <strong>Playwright</strong>. <br>
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
@@ -31,7 +29,8 @@
 ###
 
 ###
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **Skills / Tech Stack**
+
+### Skills / Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### 🧑‍💻 Programming Languages & Frameworks:
