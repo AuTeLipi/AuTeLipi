@@ -87,8 +87,7 @@
 
 ---
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; <strong>Github Stats</strong>
-<br>
+### Github Stats
 
 <p align="center">
   <table align="center">
