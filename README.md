@@ -33,30 +33,30 @@
 - Rest Assured - REST API testing framework
 - Postman - API testing and development
 
-####🗄️ Databases
+#### 🗄️ Databases
 - Microsoft SQL Server - Relational database management system
 - SQL - Database query language
 - SAP CRM/BW - Enterprise resource planning system
 
-🛠️ Version Control & CI/CD
+#### 🛠️ Version Control & CI/CD
 - Git - Version control system
 - GitHub - Code repository hosting
 - Jenkins - Continuous integration and deployment
 
-📋 Test Management
+#### 📋 Test Management
 - Jira - Issue tracking and project management
 - Confluence - Team collaboration and documentation
 - QTest - Test management platform
 - HP ALM - Application lifecycle management
   
-🧪 Testing Types
+#### 🧪 Testing Types
 - Manual Testing - Functional Testing, Regression Testing, Smoke Testing, Sanity Testing
 - API Testing - Application programming interface testing
 - Data-Driven Testing - Test data external sourcing
 - BDD - Behavior-driven development
 - Hybrid Frameworks - Combined testing approaches
 
-📈 Methodologies
+#### 📈 Methodologies
 - Agile - Iterative development methodology
 - Clean Communication - Clear stakeholder communication
 
