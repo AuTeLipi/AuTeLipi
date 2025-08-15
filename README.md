@@ -1,7 +1,6 @@
 # Hello World!, I'm Lipi Dubbaka👋🏼  
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
----
 
 💻 Currently working as a <strong>Test Automation Engineer</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
@@ -10,7 +9,6 @@
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
 ### 🏆 GitHub Trophies
----
 
 ###
 <p align="center" style="margin-top: 10px;">
