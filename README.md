@@ -73,7 +73,7 @@
 ![Agile](https://img.shields.io/badge/Agile-%23F15A24?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Clean Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ###
 
@@ -85,9 +85,9 @@
 
 ###
 
+---
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; <strong>Github Stats</strong>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <p align="center">
