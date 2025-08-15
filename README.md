@@ -9,6 +9,7 @@
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
 ### 🏆 GitHub Trophies
+---
 
 ###
 <p align="center" style="margin-top: 10px;">
