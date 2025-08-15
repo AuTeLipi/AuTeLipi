@@ -33,10 +33,15 @@
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <!-- Social Badges -->
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+<!-- Gmail - Replace with your actual email -->
+  <a href="mailto:lipipgm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+  </a>
+  
+  <!-- LinkedIn - Replace 'your-linkedin-username' with your LinkedIn username -->
+  <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
 </p>
 
 <p align="center" style="margin-top: 20px;">
@@ -74,5 +79,3 @@
 ###
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
