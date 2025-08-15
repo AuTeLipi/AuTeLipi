@@ -137,18 +137,3 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuTeLipi&theme=highcontrast&hide_border=true">
 
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=AuTeLipi" alt="GitHub Trophies for AuTeLipi">
-</details>
-
-</div>
-
-<br>
-
-
