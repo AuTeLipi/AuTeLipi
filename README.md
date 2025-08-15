@@ -1,8 +1,5 @@
-<p align="center">
-            
 # Hello World!, I'm Lipi Dubbaka👋🏼  
-
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
@@ -13,6 +10,7 @@
 💻 Focused on automation using <strong>Selenium</strong> and <strong>Java</strong>, while exploring the potential of <strong>AI-based testing tools</strong> for smarter QA processes. <br>
 🌱 Actively learning <strong>Advanced Design Patterns</strong> and strengthening automation frameworks with <strong>Playwright</strong>. <br>
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
@@ -83,15 +81,7 @@
 ![Agile](https://img.shields.io/badge/Agile-%23F15A24?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Clean Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
-</picture>
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; <strong>Github Stats</strong>
@@ -112,6 +102,16 @@
     </tr>
   </table>
 </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
+</picture>
+
+###
 
 
 
