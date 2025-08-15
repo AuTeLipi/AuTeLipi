@@ -1,5 +1,6 @@
 # Hello World!, I'm Lipi Dubbaka👋🏼  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="margin-top: 5px; margin-bottom: 5px;">
+
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
