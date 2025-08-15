@@ -8,6 +8,7 @@
 🛜 Currently working on My Automation Testing skills using Selenium, Java, AI <br>👨🏼‍🎓 Graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com Automation Tester since 2021
 
 ## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
 ![](https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
