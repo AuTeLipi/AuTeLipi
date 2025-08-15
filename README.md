@@ -111,20 +111,3 @@
     <img src="https://ghchart.rshah.org/AuTeLipi" alt="AuTeLipi's GitHub Contribution Chart">
 </a>
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/>
-  </a>
-
-  <img src="https://myreadme.vercel.app/api/embed/AuTeLipi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="AuTeLipi's GitHub Stats">
-
-  <img src="https://github-readme-bento.vercel.app/stats/AuTeLipi?theme=dark" alt="AuTeLipi's GitHub Stats">
-
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=AuTeLipi" alt="Advanced GitHub Stats for AuTeLipi" width="400">
-</details>
-
-<br>
