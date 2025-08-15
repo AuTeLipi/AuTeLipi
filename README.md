@@ -77,6 +77,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
+</picture>
+
+###
+
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; <strong>Github Stats</strong>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -97,15 +107,6 @@
   </table>
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
-</picture>
-
-###
 
 
 
