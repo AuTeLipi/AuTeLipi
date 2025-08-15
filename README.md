@@ -19,6 +19,58 @@
 
 ## 💻 Tech Stack:
 
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="border-radius: 12px; background: #F05032; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Git</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="border-radius: 12px; background: #181717; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">GitHub</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" style="border-radius: 12px; background: #0052CC; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Jira</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" style="border-radius: 12px; background: #FF6C37; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Postman</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48" style="border-radius: 12px; background: #D24939; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Jenkins</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="48" height="48" style="border-radius: 12px; background: #C71A36; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Maven</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" style="border-radius: 12px; background: #CC2927; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">SQL Server</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="border-radius: 12px; background: #007396; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Java</div>
+  </div>
+
+  <div align="center" style="width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="border-radius: 12px; background: #2496ED; padding: 6px;" />
+    <div style="font-size: 12px; margin-top: 6px;">Docker</div>
+  </div>
+
+</p>
+
+
+## 💻 Tech Stack:
+
 <p align="center">
   <!-- Badges with same height -->
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28"/>
