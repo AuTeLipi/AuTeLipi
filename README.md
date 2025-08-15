@@ -36,6 +36,17 @@
   <img alt="Gherkin" src="https://img.shields.io/badge/-Gherkin-5C2D91?style=flat-square" />
   <img alt="Page Object Model" src="https://img.shields.io/badge/-Page%20Object%20Model-00BFFF?style=flat-square" />
 
+  <p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img alt="TestNG" src="https://img.shields.io/badge/-TestNG-%23FF8C00?style=flat-square" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+  <img alt="Gherkin" src="https://img.shields.io/badge/-Gherkin-5C2D91?style=flat-square" />
+  <img alt="Page Object Model" src="https://img.shields.io/badge/-Page%20Object%20Model-00BFFF?style=flat-square" />
+</p>
+
+
   <!-- Automation Tools -->
   #### 🤖 Automation Tools:
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
