@@ -16,6 +16,19 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
 
 ###
+<p align="center" style="margin-top: 10px;">
+<!-- Gmail - Replace with your actual email -->
+  <a href="mailto:lipipgm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+  </a>
+  
+  <!-- LinkedIn - Replace 'your-linkedin-username' with your LinkedIn username -->
+  <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+</p>
+
+###
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; **Skills / Tech Stack**
 
@@ -30,14 +43,12 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-5C2D91?style=for-the-badge)
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-00BFFF?style=for-the-badge)
 
----
 
 #### 🤖 Automation Tools:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4E8C7F?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 #### 🗄️ Databases:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -45,14 +56,12 @@
 ![SAP CRM](https://img.shields.io/badge/SAP%20CRM-0FAAFF?style=for-the-badge)
 ![SAP BW](https://img.shields.io/badge/SAP%20BW-203864?style=for-the-badge)
 
----
 
 #### 🛠️ Version Control & CI/CD:
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
 
 #### 📋 Test Management:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -60,7 +69,6 @@
 ![qTest](https://img.shields.io/badge/QTest-5A4FCF?style=for-the-badge)
 ![HP ALM](https://img.shields.io/badge/HP%20ALM-0066CC?style=for-the-badge)
 
----
 
 #### 🧪 Testing Types:
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-3A3A3A?style=for-the-badge)
@@ -69,36 +77,9 @@
 ![BDD](https://img.shields.io/badge/BDD-50C878?style=for-the-badge)
 ![Hybrid Frameworks](https://img.shields.io/badge/Hybrid%20Frameworks-0088CC?style=for-the-badge)
 
----
-
 #### 📈 Methodologies:
 ![Agile](https://img.shields.io/badge/Agile-%23F15A24?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Clean Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
-
-<p align="center">
-  <!-- Badges with same height -->
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28"/>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="28"/>
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28"/>
-  <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28"/>
-  <img src="https://img.shields.io/badge/APACHE_MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="28"/>
-  <img src="https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="28"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28"/>
-</p>
-
-<p align="center" style="margin-top: 10px;">
-<!-- Gmail - Replace with your actual email -->
-  <a href="mailto:lipipgm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  </a>
-  
-  <!-- LinkedIn - Replace 'your-linkedin-username' with your LinkedIn username -->
-  <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
-</p>
 
 ###
 
