@@ -19,8 +19,6 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; **Skills / Tech Stack**
 
-<img align="right" width="300" alt="unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
-
 ---
 
 #### 🧑‍💻 Programming Languages & Frameworks:
@@ -30,7 +28,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF8C00.svg?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-5C2D91?style=for-the-badge)
-![POM](https://img.shields.io/badge/Page%20Object%20Model-%2300ADD8.svg?style=for-the-badge)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-00BFFF?style=for-the-badge)
 
 ---
 
@@ -67,15 +65,15 @@
 #### 🧪 Testing Types:
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-3A3A3A?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20Testing-%23FF6C37?style=for-the-badge)
-![Data Driven](https://img.shields.io/badge/Data%20Driven%20Testing-3949AB?style=for-the-badge)
+![Data Driven Testing](https://img.shields.io/badge/Data%20Driven%20Testing-3949AB?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-50C878?style=for-the-badge)
-![Hybrid Framework](https://img.shields.io/badge/Hybrid%20Frameworks-0088CC?style=for-the-badge)
+![Hybrid Frameworks](https://img.shields.io/badge/Hybrid%20Frameworks-0088CC?style=for-the-badge)
 
 ---
 
 #### 📈 Methodologies:
 ![Agile](https://img.shields.io/badge/Agile-%23F15A24?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
+![Clean Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
 
 <p align="center">
   <!-- Badges with same height -->
@@ -109,13 +107,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake.svg" />
 </picture>
-
-###
-
-<div align="lef">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuTeLipi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AuTeLipi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
