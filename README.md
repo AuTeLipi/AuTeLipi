@@ -17,13 +17,11 @@
   <a href="mailto:lipipgm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
   </a>
-  
   <!-- LinkedIn - Replace 'your-linkedin-username' with your LinkedIn username -->
   <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
 </p>
-
 ###
 
 ## 💻 Skills / Tech Stack
