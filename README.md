@@ -17,48 +17,65 @@
 
 ###
 
-### 💻 Tech Stack:
-##### 🧑‍💻 Programming Languages & Frameworks
-- Java - Object-oriented programming language
-- Core Java - Foundation programming concepts
-- TestNG - Testing framework for Java
-- JUnit - Unit testing framework
-- Cucumber - Behavior-driven development framework
-- Gherkin - Business readable language for Cucumber
-- Maven - Build automation and dependency management
-- POM - Page Object Model design pattern
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; **Skills / Tech Stack**
 
-##### 🤖 Automation Tools
-- Selenium WebDriver - Web application automation
-- Rest Assured - REST API testing framework
-- Postman - API testing and development
+<img align="right" width="300" alt="unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
-##### 🗄️ Databases
-- Microsoft SQL Server - Relational database management system
-- SQL - Database query language
-- SAP CRM/BW - Enterprise resource planning system
+---
 
-##### 🛠️ Version Control & CI/CD
-- Git - Version control system
-- GitHub - Code repository hosting
-- Jenkins - Continuous integration and deployment
+#### 🧑‍💻 Programming Languages & Frameworks:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23FF8C00.svg?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5C2D91?style=for-the-badge)
+![POM](https://img.shields.io/badge/Page%20Object%20Model-%2300ADD8.svg?style=for-the-badge)
 
-##### 📋 Test Management
-- Jira - Issue tracking and project management
-- Confluence - Team collaboration and documentation
-- QTest - Test management platform
-- HP ALM - Application lifecycle management
-  
-##### 🧪 Testing Types
-- Manual Testing - Functional Testing, Regression Testing, Smoke Testing, Sanity Testing
-- API Testing - Application programming interface testing
-- Data-Driven Testing - Test data external sourcing
-- BDD - Behavior-driven development
-- Hybrid Frameworks - Combined testing approaches
+---
 
-##### 📈 Methodologies
-- Agile - Iterative development methodology
-- Clean Communication - Clear stakeholder communication
+#### 🤖 Automation Tools:
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4E8C7F?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+#### 🗄️ Databases:
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SAP CRM](https://img.shields.io/badge/SAP%20CRM-0FAAFF?style=for-the-badge)
+![SAP BW](https://img.shields.io/badge/SAP%20BW-203864?style=for-the-badge)
+
+---
+
+#### 🛠️ Version Control & CI/CD:
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+#### 📋 Test Management:
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![qTest](https://img.shields.io/badge/QTest-5A4FCF?style=for-the-badge)
+![HP ALM](https://img.shields.io/badge/HP%20ALM-0066CC?style=for-the-badge)
+
+---
+
+#### 🧪 Testing Types:
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-3A3A3A?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-%23FF6C37?style=for-the-badge)
+![Data Driven](https://img.shields.io/badge/Data%20Driven%20Testing-3949AB?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-50C878?style=for-the-badge)
+![Hybrid Framework](https://img.shields.io/badge/Hybrid%20Frameworks-0088CC?style=for-the-badge)
+
+---
+
+#### 📈 Methodologies:
+![Agile](https://img.shields.io/badge/Agile-%23F15A24?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Communication](https://img.shields.io/badge/Clean%20Communication-00BFFF?style=for-the-badge)
 
 <p align="center">
   <!-- Badges with same height -->
