@@ -104,9 +104,4 @@
   </table>
 </p>
 
----
-### GitHub Contribution Chart
-<a href="https://github.com/AuTeLipi">
-    <img src="https://ghchart.rshah.org/AuTeLipi" alt="AuTeLipi's GitHub Contribution Chart">
-</a>
 
