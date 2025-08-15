@@ -105,6 +105,62 @@
   </table>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=LipiDubbaka&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LipiDubbaka&custom_title=LipiDubbaka's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <br><br>
+
+  <!-- Language & Repo Stats -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipiDubbaka&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Full Stats & Summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LipiDubbaka&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="LipiDubbaka's GitHub stats">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LipiDubbaka&theme=highcontrast&hide_border=true" alt="Profile Details">
+
+  <br>
+
+  <!-- Contribution Chart -->
+  <h3 align="center">📈 Contribution Chart</h3>
+  <a href="https://github.com/LipiDubbaka">
+    <img src="https://ghchart.rshah.org/LipiDubbaka" alt="LipiDubbaka's GitHub Contribution Chart">
+  </a>
+</div>
+
+<details>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" /></summary>
+  
+  <!-- Add GitRoll, Bento, etc. if available for LipiDubbaka -->
+  <img src="https://myreadme.vercel.app/api/embed/LipiDubbaka?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Panels">
+  <img src="https://github-readme-bento.vercel.app/stats/LipiDubbaka?theme=dark" alt="GitHub Bento Stats">
+</details>
+
+<details>
+  <summary>🏆 GitHub Profile Trophy</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=LipiDubbaka&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+</details>
+
+
 
 
 
