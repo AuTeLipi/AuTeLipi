@@ -18,6 +18,47 @@
 ###
 
 ## 💻 Tech Stack:
+💻 Programming Languages & Frameworks
+- Java - Object-oriented programming language
+- Core Java - Foundation programming concepts
+- TestNG - Testing framework for Java
+- JUnit - Unit testing framework
+- Cucumber - Behavior-driven development framework
+- Gherkin - Business readable language for Cucumber
+- Maven - Build automation and dependency management
+- POM - Page Object Model design pattern
+
+🤖 Automation Tools
+- Selenium WebDriver - Web application automation
+- Rest Assured - REST API testing framework
+- Postman - API testing and development
+
+🗄️ Databases
+- Microsoft SQL Server - Relational database management system
+- SQL - Database query language
+- SAP CRM/BW - Enterprise resource planning system
+
+🛠️ Version Control & CI/CD
+- Git - Version control system
+- GitHub - Code repository hosting
+- Jenkins - Continuous integration and deployment
+
+📋 Test Management
+- Jira - Issue tracking and project management
+- Confluence - Team collaboration and documentation
+- QTest - Test management platform
+- HP ALM - Application lifecycle management
+  
+🧪 Testing Types
+- Manual Testing - Functional Testing, Regression Testing, Smoke Testing, Sanity Testing
+- API Testing - Application programming interface testing
+- Data-Driven Testing - Test data external sourcing
+- BDD - Behavior-driven development
+- Hybrid Frameworks - Combined testing approaches
+
+📈 Methodologies
+- Agile - Iterative development methodology
+- Clean Communication - Clear stakeholder communication
 
 <p align="center">
   <!-- Badges with same height -->
