@@ -17,9 +17,7 @@
 
 ###
 
-## 💻 Tech Stack:
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
 
   <div align="center" style="width: 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="border-radius: 12px; background: #F05032; padding: 6px;" />
@@ -66,7 +64,8 @@
     <div style="font-size: 12px; margin-top: 6px;">Docker</div>
   </div>
 
-</p>
+</div>
+
 
 
 
