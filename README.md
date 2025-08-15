@@ -16,55 +16,60 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
 
 ###
+## 💻 Tech Stack:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Stack - Horizontal</title>
+</head>
+<body style="margin: 0; padding: 20px; background: #1a1a1a; font-family: Arial, sans-serif;">
+    
+    <h2 style="color: #fff; text-align: center; margin-bottom: 30px;">Tech Stack:</h2>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="border-radius: 12px; background: #F05032; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Git</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="border-radius: 12px; background: #181717; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">GitHub</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" style="border-radius: 12px; background: #0052CC; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Jira</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" style="border-radius: 12px; background: #FF6C37; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Postman</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48" style="border-radius: 12px; background: #D24939; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Jenkins</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="48" height="48" style="border-radius: 12px; background: #C71A36; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Maven</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" style="border-radius: 12px; background: #CC2927; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">SQL Server</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="border-radius: 12px; background: #007396; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Java</div>
+      </div>
+      <div align="center" style="width: 80px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="border-radius: 12px; background: #2496ED; padding: 6px;" />
+        <div style="font-size: 12px; margin-top: 6px; color: #fff;">Docker</div>
+      </div>
+    </div>
 
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="border-radius: 12px; background: #F05032; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Git</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="border-radius: 12px; background: #181717; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">GitHub</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" style="border-radius: 12px; background: #0052CC; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Jira</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" style="border-radius: 12px; background: #FF6C37; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Postman</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48" style="border-radius: 12px; background: #D24939; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Jenkins</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="48" height="48" style="border-radius: 12px; background: #C71A36; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Maven</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" style="border-radius: 12px; background: #CC2927; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">SQL Server</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="border-radius: 12px; background: #007396; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Java</div>
-  </div>
-
-  <div align="center" style="width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="border-radius: 12px; background: #2496ED; padding: 6px;" />
-    <div style="font-size: 12px; margin-top: 6px;">Docker</div>
-  </div>
-
-</div>
+</body>
+</html>
 
 
 
