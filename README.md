@@ -13,14 +13,14 @@
 
 ###
 <p align="center" style="margin-top: 10px;">
+  
 <!-- Gmail - Replace with your actual email -->
-  <a href="mailto:lipipgm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  </a>
-  <!-- LinkedIn - Replace 'your-linkedin-username' with your LinkedIn username -->
-  <a href="https://www.linkedin.com/in/lipidubbaka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
+<div align="center">
+  <a href="mailto:lipipgm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/lipidubbaka"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+ <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
+</div>
+
 </p>
 
 ---
