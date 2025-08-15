@@ -1,4 +1,5 @@
-# Hello World!, I'm Lipi, a Automation Tester 👋🏼:
+# Hello World!, I'm Lipi👋🏼
+# 🕵️‍♂️ Automation Tester | QA Engineer:
 🛜 Currently working on My Automation Testing skills using Selenium, Java, AI <br>👨🏼‍🎓 Graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com Automation Tester since 2021
 
 ## 🏆 GitHub Trophies
