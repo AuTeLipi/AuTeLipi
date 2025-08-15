@@ -6,6 +6,8 @@
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 💻 Currently working as a <strong>Test Automation Engineer</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
 💻 Focused on automation using <strong>Selenium</strong> and <strong>Java</strong>, while exploring the potential of <strong>AI-based testing tools</strong> for smarter QA processes. <br>
@@ -33,7 +35,6 @@
 ###
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **Skills / Tech Stack**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 #### 🧑‍💻 Programming Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
