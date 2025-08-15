@@ -1,10 +1,10 @@
 <p align="center">
             
-# Hello World!, I'm Lipi👋🏼  
+# Hello World!, I'm Lipi Dubbaka👋🏼  
 
 </p>
 
-# 🕵️‍♂️ Automation Tester | QA Engineer:
+## 🕵️‍♂️ Automation Tester | QA Engineer:
 
 💻 Currently working as a <strong>Test Automation Engineer</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
 🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
@@ -12,13 +12,13 @@
 🌱 Actively learning <strong>Advanced Design Patterns</strong> and strengthening automation frameworks with <strong>Playwright</strong>. <br>
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
 
 ###
 
-## 💻 Tech Stack:
-#### 🧑‍💻 Programming Languages & Frameworks
+### 💻 Tech Stack:
+##### 🧑‍💻 Programming Languages & Frameworks
 - Java - Object-oriented programming language
 - Core Java - Foundation programming concepts
 - TestNG - Testing framework for Java
@@ -28,35 +28,35 @@
 - Maven - Build automation and dependency management
 - POM - Page Object Model design pattern
 
-#### 🤖 Automation Tools
+##### 🤖 Automation Tools
 - Selenium WebDriver - Web application automation
 - Rest Assured - REST API testing framework
 - Postman - API testing and development
 
-#### 🗄️ Databases
+##### 🗄️ Databases
 - Microsoft SQL Server - Relational database management system
 - SQL - Database query language
 - SAP CRM/BW - Enterprise resource planning system
 
-#### 🛠️ Version Control & CI/CD
+##### 🛠️ Version Control & CI/CD
 - Git - Version control system
 - GitHub - Code repository hosting
 - Jenkins - Continuous integration and deployment
 
-#### 📋 Test Management
+##### 📋 Test Management
 - Jira - Issue tracking and project management
 - Confluence - Team collaboration and documentation
 - QTest - Test management platform
 - HP ALM - Application lifecycle management
   
-#### 🧪 Testing Types
+##### 🧪 Testing Types
 - Manual Testing - Functional Testing, Regression Testing, Smoke Testing, Sanity Testing
 - API Testing - Application programming interface testing
 - Data-Driven Testing - Test data external sourcing
 - BDD - Behavior-driven development
 - Hybrid Frameworks - Combined testing approaches
 
-#### 📈 Methodologies
+##### 📈 Methodologies
 - Agile - Iterative development methodology
 - Clean Communication - Clear stakeholder communication
 
