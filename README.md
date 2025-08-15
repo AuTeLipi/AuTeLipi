@@ -5,11 +5,14 @@
 </p>
 
 # 🕵️‍♂️ Automation Tester | QA Engineer:
-🛜 Currently working on My Automation Testing skills using Selenium, Java, AI <br>👨🏼‍🎓 Graduated as BTech in Electrical and Electronic Engineering at Sreenidhi Institue of Science and Technology (2021), Hyderabad, India <br>👨🏼‍💻 working as a Manual com Automation Tester since 2021
+💻 Currently working as a <strong>Manual and Automation Tester</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br
+🎓 Graduated with a <strong>B.Tech in Electrical and Electronics Engineering</strong> from <em>Sreenidhi Institute of Science and Technology</em>, Hyderabad (<strong>Class of 2021</strong>). <br>
+🧪 Currently working as a <strong>Manual and Automation Tester</strong> with hands-on experience in building and executing real-world testing solutions since <strong>2021</strong>. <br>
+💻 Focused on automation using <strong>Selenium</strong> and <strong>Java</strong>, while exploring the potential of <strong>AI-based testing tools</strong> for smarter QA processes. <br>
+🌱 Actively learning <strong>Advanced Design Patterns</strong> and strengthening automation frameworks with <strong>Playwright</strong>. <br>
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
-![](https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
