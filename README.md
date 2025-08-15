@@ -18,7 +18,7 @@
 ###
 
 ## 💻 Tech Stack:
-🧑‍💻 Programming Languages & Frameworks
+#### 🧑‍💻 Programming Languages & Frameworks
 - Java - Object-oriented programming language
 - Core Java - Foundation programming concepts
 - TestNG - Testing framework for Java
@@ -28,12 +28,12 @@
 - Maven - Build automation and dependency management
 - POM - Page Object Model design pattern
 
-🤖 Automation Tools
+#### 🤖 Automation Tools
 - Selenium WebDriver - Web application automation
 - Rest Assured - REST API testing framework
 - Postman - API testing and development
 
-🗄️ Databases
+####🗄️ Databases
 - Microsoft SQL Server - Relational database management system
 - SQL - Database query language
 - SAP CRM/BW - Enterprise resource planning system
