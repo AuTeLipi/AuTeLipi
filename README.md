@@ -18,16 +18,6 @@
 ###
 ## 💻 Tech Stack:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Stack - Horizontal</title>
-</head>
-<body style="margin: 0; padding: 20px; background: #1a1a1a; font-family: Arial, sans-serif;">
-    
-    <h2 style="color: #fff; text-align: center; margin-bottom: 30px;">Tech Stack:</h2>
     
     <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
       <div align="center" style="width: 80px;">
@@ -67,9 +57,6 @@
         <div style="font-size: 12px; margin-top: 6px; color: #fff;">Docker</div>
       </div>
     </div>
-
-</body>
-</html>
 
 
 
