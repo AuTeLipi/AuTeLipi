@@ -22,13 +22,7 @@
 
 ---
 
-<table>
-    <!-- Right side: Image -->
-    <td width="100%" align="center">
-      <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/1.png" alt="Tech Stack Visual" width="400" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 
