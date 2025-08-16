@@ -21,16 +21,6 @@
 </div>
 
 ---
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-<img width="550" height="532" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
-    </td>
-     <td width="50%" valign="top">
-       
-    </tr>
-</table>
----
 
 <!-- Tech Stack and Image Side-by-Side -->
 
