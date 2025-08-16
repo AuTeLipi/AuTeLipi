@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Skills / Tech Stack
+## 💻 Tech Stack / Skills 
 
   <!-- Programming Languages & Frameworks -->
   #### 🧑‍💻 Programming Languages & Frameworks:
@@ -91,7 +91,7 @@
 
 ---
 
-### 📊 GitHub Contributions
+## 📊 GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/output/github-snake-dark.svg" />
@@ -103,7 +103,7 @@
 
 ---
 <!-- Github Stats -->
-### ⭐ Github Stats
+## ⭐ Github Stats
 
 <p align="center">
   <table align="center">
