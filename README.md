@@ -21,6 +21,11 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/Robot.png" alt="Descriptive Alt Text" width="1050" height="1032">
+</div>
+
+---
 ### 💻 Tech Stack / Skills 
 
 <table>
