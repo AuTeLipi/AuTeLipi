@@ -21,7 +21,7 @@
 </div>
 
 ---
-<img width="1050" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
+<img width="1050" height="532" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
 ---
 
 <!-- Tech Stack and Image Side-by-Side -->
