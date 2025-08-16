@@ -32,7 +32,7 @@
   <tr>
     <!-- Image on the Left -->
     <td width="50%" valign="top" align="center">
-      <img width="550" height="532" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
+      <img width="550" height="932" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
     </td>
     <!-- Tech Stack on the Right -->
     <td width="50%" valign="top">
