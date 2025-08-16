@@ -26,7 +26,7 @@
 <table>
   <thead>
     <tr>
-      <th> ###Programming Languages & Frameworks:</th>
+      <th> Programming Languages & Frameworks:</th>
       <th> Automation Tools:</th>
       <th> Databases:</th>
       <th> Version Control & CI/CD:</th>
