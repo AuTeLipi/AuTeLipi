@@ -27,7 +27,7 @@
 <table>
   <tr>
     <!-- Left side: Tech Badges -->
-    <td width="60%" valign="top">
+    <td width="45%" valign="top">
 ### 💻 Tech Stack / Skills 
 
   <!-- Programming Languages & Frameworks -->
@@ -96,7 +96,7 @@
   </p>
     </td>
     <!-- Right side: Image -->
-    <td width="40%" align="center">
+    <td width="55%" align="center">
       <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/1.png" alt="Tech Stack Visual" width="400" />
     </td>
   </tr>
