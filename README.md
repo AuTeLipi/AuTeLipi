@@ -37,11 +37,7 @@
 <table>
   <tr>
     <!-- Image on the Left -->
-    <td width="50%" valign="top" align="center">
-      <img width="550" height="932" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
-    </td>
-    <!-- Tech Stack on the Right -->
-    <td width="50%" valign="top">
+    <td width="6.6%" valign="top" align="center">
       <h4>🧑‍💻 Programming Languages & Frameworks:</h4>
       <p>
         <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -52,33 +48,43 @@
         <img alt="Gherkin" src="https://img.shields.io/badge/-Gherkin-5C2D91?style=flat-square" />
         <img alt="Page Object Model" src="https://img.shields.io/badge/-Page%20Object%20Model-00BFFF?style=flat-square" />
       </p>
+    </td>
+    <td width="6.6%" valign="top" align="center">
       <h4>🤖 Automation Tools:</h4>
       <p>
         <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
         <img alt="Rest Assured" src="https://img.shields.io/badge/-Rest%20Assured-4E8C7F?style=flat-square" />
         <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </p>
-      <h4>🗄️ Databases:</h4>
+    </td>
+    <td width="6.6%" valign="top" align="center">
+    <h4>🗄️ Databases:</h4>
       <p>
         <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
         <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square" />
         <img alt="SAP CRM" src="https://img.shields.io/badge/-SAP%20CRM-0FAAFF?style=flat-square" />
         <img alt="SAP BW" src="https://img.shields.io/badge/-SAP%20BW-203864?style=flat-square" />
       </p>
+    </td>
+    <td width="6.6%" valign="top" align="center">
       <h4>🛠️ Version Control & CI/CD:</h4>
       <p>
         <img alt="Git" src="https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
       </p>
-      <h4>📋 Test Management:</h4>
+    </td>
+    <td width="6.6%" valign="top" align="center">
+     <h4>📋 Test Management:</h4>
       <p>
         <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
         <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
         <img alt="qTest" src="https://img.shields.io/badge/-qTest-5A4FCF?style=flat-square" />
         <img alt="HP ALM" src="https://img.shields.io/badge/-HP%20ALM-0066CC?style=flat-square" />
       </p>
-      <h4>🧪 Testing Types:</h4>
+    </td>
+    <td width="6.6%" valign="top" align="center">
+       <h4>🧪 Testing Types:</h4>
       <p>
         <img alt="Manual Testing" src="https://img.shields.io/badge/-Manual%20Testing-3A3A3A?style=flat-square" />
         <img alt="API Testing" src="https://img.shields.io/badge/-API%20Testing-FF6C37?style=flat-square" />
@@ -86,13 +92,14 @@
         <img alt="BDD" src="https://img.shields.io/badge/-BDD-50C878?style=flat-square" />
         <img alt="Hybrid Frameworks" src="https://img.shields.io/badge/-Hybrid%20Frameworks-0088CC?style=flat-square" />
       </p>
-      <h4>📈 Methodologies:</h4>
+    </td>
+    <td width="6.6%" valign="top" align="center">
+       <h4>📈 Methodologies:</h4>
       <p>
         <img alt="Agile" src="https://img.shields.io/badge/-Agile-F15A24?style=flat-square&logo=scrumalliance&logoColor=white" />
         <img alt="Clean Communication" src="https://img.shields.io/badge/-Clean%20Communication-00BFFF?style=flat-square" />
       </p>
     </td>
-  </tr>
 </table>
 
 
