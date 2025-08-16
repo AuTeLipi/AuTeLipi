@@ -1,4 +1,4 @@
-# Hello World!, I'm Lipi Dubbaka👋🏼  
+<img width="1050" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6" /># Hello World!, I'm Lipi Dubbaka👋🏼  
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
@@ -28,7 +28,7 @@
   <tr>
     <!-- Image on the Left -->
     <td width="100%" valign="top" align="center">
-      <img src="" alt="Tech Stack Visual" width="300"/>
+      <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/121.png" alt="Tech Stack Visual" width="300"/>
     </td>
     <!-- Tech Stack on the Right -->
     <td width="50%" valign="top">
