@@ -27,8 +27,8 @@
 <table>
   <tr>
     <!-- Image on the Left -->
-    <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/1.png" alt="Tech Stack Visual" width="300"/>
+    <td width="100%" valign="top" align="center">
+      <img src="" alt="Tech Stack Visual" width="300"/>
     </td>
     <!-- Tech Stack on the Right -->
     <td width="50%" valign="top">
