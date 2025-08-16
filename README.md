@@ -1,8 +1,4 @@
-<div align="center">
-  
-https://github.com/user-attachments/assets/169c9740-b0b9-4f95-8c08-c1e9b2f47fb4
-
-</div>
+#### Hello World!, I'm Lipi Dubbaka 👋
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
