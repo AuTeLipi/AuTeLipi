@@ -1,4 +1,4 @@
-<img width="1050" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6" /># Hello World!, I'm Lipi Dubbaka👋🏼  
+# Hello World!, I'm Lipi Dubbaka👋🏼  
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
@@ -20,6 +20,8 @@
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
 
+---
+<img width="1050" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd0daaa8-6bf4-4bf6-b0e3-77766bcb72d6"/>
 ---
 
 <!-- Tech Stack and Image Side-by-Side -->
