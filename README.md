@@ -26,13 +26,13 @@
 <table>
   <thead>
     <tr>
-      <th>🧑‍💻 Programming Languages & Frameworks:</th>
-      <th>🤖 Automation Tools:</th>
-      <th>🗄️ Databases:</th>
-      <th>🛠️ Version Control & CI/CD:</th>
-      <th>📋 Test Management:</th>
-      <th>🧪 Testing Types:</th>
-      <th>📈 Methodologies:</th>
+      <th> ###Programming Languages & Frameworks:</th>
+      <th> Automation Tools:</th>
+      <th> Databases:</th>
+      <th> Version Control & CI/CD:</th>
+      <th> Test Management:</th>
+      <th> Testing Types:</th>
+      <th> Methodologies:</th>
     </tr>
   </thead>
   <tbody>
