@@ -1,4 +1,8 @@
-# Hello World!, I'm Lipi Dubbaka👋🏼  
+<div align="center">
+  
+https://github.com/user-attachments/assets/169c9740-b0b9-4f95-8c08-c1e9b2f47fb4
+
+</div>
 
 ## 🕵️‍♂️ Automation Tester | QA Engineer:
 
@@ -18,11 +22,6 @@
   <a href="mailto:lipipgm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/lipidubbaka"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
-</div>
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AuTeLipi/AuTeLipi/main/Robot.png" alt="Descriptive Alt Text" width="1050" height="1032">
 </div>
 
 ---
