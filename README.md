@@ -9,8 +9,7 @@
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
-
+![trophy](https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark&margin-w=15&margin-h=15)
 
 <!-- Gmail - Replace with your actual email -->
 <div align="center">
