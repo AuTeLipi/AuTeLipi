@@ -10,8 +10,7 @@
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
-<img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" />
-###
+
 
 <!-- Gmail - Replace with your actual email -->
 <div align="center">
