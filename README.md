@@ -105,9 +105,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuTeLipi&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AuTeLipi&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
@@ -116,11 +113,12 @@
   </tr>
 </table>
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuTeLipi&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center">
   <table align="center">
     <tr>
