@@ -8,10 +8,12 @@
 🌱 Actively learning <strong>Advanced Design Patterns</strong> and strengthening automation frameworks with <strong>Playwright</strong>. <br>
 👯 I’m open to collaboration on <strong>API Testing</strong>, <strong>Selenium</strong>, and <strong>Automation Frameworks</strong>. 
 
+<!--
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" alt="GitHub Trophies for AuTeLipi" />
 </p>
+-->
 
 <!-- Gmail - Replace with your actual email -->
 <div align="center">
@@ -100,6 +102,11 @@
 ### ⭐ GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuTeLipi&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!--
+<p align="center">
   <table align="center">
     <tr>
       <td width="50%" align="center">
@@ -113,5 +120,5 @@
     </tr>
   </table>
 </p>
-
+-->
 
