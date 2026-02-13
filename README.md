@@ -15,6 +15,8 @@
 </p>
 -->
 
+## 💼 Let’s Connect on LinkedIn:
+
 <!-- Gmail - Replace with your actual email -->
 <div align="center">
   <a href="mailto:lipipgm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
@@ -101,6 +103,11 @@
 <!-- Github Stats -->
 ### ⭐ GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuTeLipi&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
 <div align="center">
 <table>
   <tr>
@@ -112,11 +119,6 @@
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuTeLipi&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-</p>
 
 <!--
 <p align="center">
