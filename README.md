@@ -11,6 +11,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark" alt="GitHub Trophies for AuTeLipi" />
+  https://github-profile-trophy.vercel.app/?username=AuTeLipi&theme=kimbie_dark
 </p>
 
 <!-- Gmail - Replace with your actual email -->
